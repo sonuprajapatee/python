@@ -1,0 +1,5 @@
+{
+  "name": "Binance Futures Trading Bot UI",
+  "description": "A professional dashboard interface for the Python Trading Bot assignment, featuring order placement, real-time simulated logging, and market visualization.",
+  "requestFramePermissions": []
+}
